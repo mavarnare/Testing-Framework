@@ -1,0 +1,27 @@
+{
+  "name": "Testing-Framework",
+  "version": "1.0.0",
+  "description": "A testing framework made from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavarnare/Testing-Framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "tme": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/mavarnare/Testing-Framework/issues"
+  },
+  "homepage": "https://github.com/mavarnare/Testing-Framework#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "jsdom": "^16.2.2"
+  }
+}
