@@ -22,6 +22,6 @@
   "homepage": "https://github.com/mavarnare/Testing-Framework#readme",
   "dependencies": {
     "chalk": "^4.1.0",
-    "jsdom": "^16.2.2"
+    "jsdom": "^16.5.0"
   }
 }
